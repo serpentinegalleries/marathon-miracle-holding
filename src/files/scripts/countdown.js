@@ -31,11 +31,3 @@ function initializeClock(id, endtime){
 
 initializeClock('clockdiv', deadline);
 
-$(window).load(function() {
-	show();
-});
-
-function show() {
-    $('.container').fadeIn();
-};
-

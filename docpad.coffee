@@ -39,17 +39,12 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"/styles/twitter-bootstrap.css"
+				"/styles/bootstrap.css"
 				"/styles/style.css"
-				"//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
 			]
 
 			# Scripts
 			scripts: [
-				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
-				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
-				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
-				"/scripts/countdown.js"
 			]
 
 
